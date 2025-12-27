@@ -25,6 +25,7 @@ Generate an AI report
 
 # 📁 Project Structure
 report-x/
+
 ├── app.py
 
 ├── data_processor.py
